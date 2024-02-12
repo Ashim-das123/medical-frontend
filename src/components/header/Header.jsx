@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useContext } from 'react'
-import logo from "../../assets/images/newlogo.png"
+import logo from "../../assets/images/logo6.png"
 import { NavLink, Link } from "react-router-dom"
 
 import { BiMenu } from "react-icons/bi"
